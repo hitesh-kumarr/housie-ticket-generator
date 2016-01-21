@@ -1,2 +1,2 @@
-# housie
+# Housie/Tambola
 House Ticket Generator
