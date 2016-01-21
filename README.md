@@ -1,2 +1,2 @@
 # housie
-Housie game
+House Ticket Generator
